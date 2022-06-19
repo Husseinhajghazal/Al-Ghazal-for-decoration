@@ -200,9 +200,6 @@ ul {
 }
 
 @media (max-width: 540px) {
-  .home .home-content {
-    z-index: -2;
-  }
   .home .home-content h1 {
     font-size: 40px;
   }
