@@ -132,6 +132,7 @@ ul {
     left: 0;
     padding: 2rem;
     background-color: var(--gray-color);
+    z-index: 1;
   }
   .navbar-h .left .links.none {
     display: none;
